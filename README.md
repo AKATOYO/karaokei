@@ -18,3 +18,12 @@ git clone https://github.com/tu-usuario/karaoke-ai-app.git
 cd karaoke-ai-app
 pip install -r requirements.txt
 streamlit run app.py
+
+
+karaoke-ai-app/
+│
+├── app.py                 # Código principal de Streamlit
+├── requirements.txt       # Dependencias de Python
+├── packages.txt           # Dependencias del sistema (para Streamlit Cloud)
+└── README.md              # Documentación del repositorio
+
