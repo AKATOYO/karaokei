@@ -1,5 +1,6 @@
-streamlit
-spleeter
-whisperx
-torch
-pydub
+streamlit==1.33.0
+spleeter==2.4.0
+whisperx==3.1.1
+torch==2.1.0
+pydub==0.25.1
+psutil # Added for memory management
